@@ -1,7 +1,7 @@
 {
   "name": "resumeai-backend",
   "version": "1.0.0",
-  "description": "ResumeAI Pro backend server",
+  "description": "ResumeAI Pro backend — powered by Groq (free)",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
